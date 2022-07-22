@@ -80465,10 +80465,10 @@ A.atL.prototype={
 $0(){return A.aFU(B.aD,new A.atJ(this.a,this.c),this.b,t.z)},
 $S:0}
 A.atJ.prototype={
-$1(a){var s,r=null,q=this.b,p=t.p,o=A.OJ(q.C7(),r,r,!0,B.cs,r,r,new A.j2(r),A.b([A.kw("Themenbereich"),A.kw("Format"),A.kw("Vorkenntnisse"),A.kw("Ort")],p),B.k,r),n=A.E(r,10,r),m=a.E(t.w).f
+$1(a){var s,r=null,q=this.b,p=t.p,o=A.OJ(q.C7(),r,r,!0,B.cs,r,r,new A.j2(r),A.b([A.kw("Themenbereich"),A.kw("Format"),A.kw("Vorkenntnisse"),A.kw("Ort")],p),B.k,r),n=A.E(r,10,r)
 q=q.C7()
 s=this.a
-return A.aA(A.b([o,n,new A.fa(1,B.bc,new A.bs(new A.a8(0,500,0,m.a.b*0.8),A.OL(A.b([s.yt(),s.yr(),s.yu(),s.ys()],p),q,new A.j2(r)),r),r)],p),B.p,B.n,B.o)},
+return A.aA(A.b([o,n,new A.fa(1,B.bc,new A.bs(new A.a8(0,500,0,1/0),A.OL(A.b([s.yt(),s.yr(),s.yu(),s.ys()],p),q,new A.j2(r)),r),r)],p),B.p,B.n,B.o)},
 $S:192}
 A.atM.prototype={
 $2(a,b){var s,r,q=null
