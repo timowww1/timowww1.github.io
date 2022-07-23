@@ -80854,7 +80854,7 @@ q=t.w
 p=b.F(q).f
 o=A.bU(h,14,B.I,h,A.T(b).R8.y)
 n=t.p
-q=A.R(h,new A.Je(A.c([A.af7(s,h,B.aN,h,!0,B.d7,h,A.bU(h,14,B.I,h,A.T(b).R8.y),new A.lD(h),A.c([A.vL("Themenbereich"),A.vL("Format"),A.vL("Vorkenntnisse"),A.vL("Ort")],n),B.k,o),A.C(h,10,h),new A.bC(new A.aa(0,500,0,b.F(q).f.a.b*0.8),A.af8(A.c([A.au(A.c([i.FW(),A.C(h,10,h)],n),B.p,B.l,B.m),A.au(A.c([i.FU(),A.C(h,10,h)],n),B.p,B.l,B.m),A.au(A.c([i.FX(),A.C(h,10,h)],n),B.p,B.l,B.m),A.au(A.c([i.FV(),A.C(h,10,h)],n),B.p,B.l,B.m)],n),s,new A.lD(h)),h)],n),h),B.h,B.aC,h,h,h,h,h,h,h,h,h,h)
+q=A.R(h,new A.Je(A.c([A.af7(s,h,B.aN,h,!0,B.d7,h,A.bU(h,14,B.I,h,A.T(b).R8.y),new A.lD(h),A.c([A.vL("Themenbereich"),A.vL("Format"),A.vL("Vorkenntnisse"),A.vL("Ort")],n),B.k,o),A.C(h,10,h),new A.bC(new A.aa(0,500,0,b.F(q).f.a.b*0.8),A.af8(A.c([A.au(A.c([i.FW(),A.C(h,500,h)],n),B.p,B.l,B.m),A.au(A.c([i.FU(),A.C(h,500,h)],n),B.p,B.l,B.m),A.au(A.c([i.FX(),A.C(h,500,h)],n),B.p,B.l,B.m),A.au(A.c([i.FV(),A.C(h,500,h)],n),B.p,B.l,B.m)],n),s,new A.lD(h)),h)],n),h),B.h,B.aC,h,h,h,h,h,h,h,h,h,h)
 o=A.bU(h,14,B.I,h,A.T(b).R8.y)
 o=A.C(new A.d9(B.co,h,h,A.af7(f,new A.tf(B.aN,4),h,B.hm,!1,B.d7,B.ea,A.bU(h,14,B.I,h,A.T(b).R8.y),h,A.c([B.yc,B.yd,B.ye],n),B.bF,o),h),60,h)
 m=J.aR(A.b(i.ax,g))===0?i.jK():i.d.fw(A.b(i.ax,g))
